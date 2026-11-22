@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:EC4899&height=200&section=header&text=Syeda%20Fiza%20Gilani&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20AI%20%26%20Automation&descSize=18&descAlignY=60" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:EC4899&height=200&section=header&text=Syeda%20Fiza%20Gilani&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20and%20AI%20Automation&descSize=18&descAlignY=60" width="100%" alt="header" />
 
 **I build AI agents, automation workflows, and full-stack apps, and I'm always learning more.**
 
