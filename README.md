@@ -17,7 +17,7 @@
 </div>
 
 ## 👋 About Me
-I like building things that save people time. Most of my projects connect AI models to real tools like WhatsApp, HubSpot, Slack, and Google Calendar.
+I'm a full-stack developer who likes building complete products with Next.js, TypeScript, and Tailwind CSS on the frontend, and authentication (NextAuth), PostgreSQL, and Prisma behind it. I also add AI features like RAG and agents using FastAPI, Qdrant, and Gemini.
 
 ## 🚀 Projects
 
